@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/db/database.ts","./src/db/supabase.ts","./src/src/vite-env.d.ts","./src/stores/shoppinglist.ts","./src/types/shopping.ts","./src/app.vue","./src/components/additem.vue","./src/components/addstore.vue","./src/components/helloworld.vue","./src/components/shoppingitem.vue","./src/components/storemanager.vue"],"version":"5.9.3"}
